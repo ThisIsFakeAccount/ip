@@ -1,9 +1,3 @@
 {
-	[
-    		"PvP Slow":{
-		'co':(0.2,0.2,0.4),
-        	"PvP slow1":{"p":43210,"ip":"folan","abe":"","abf":""},
-        	"PvP slow2":{"p":43210,"ip":"folan","abe":"","abf":""}
-		} 
-	]
+	["PvP Slow":{"co":(0.2,0.2,0.4),"PvP slow1":{"p":43210,"ip":"folan","abe":"","abf":""},"PvP slow2":{"p":43210,"ip":"folan","abe":"","abf":""}}]
 }
